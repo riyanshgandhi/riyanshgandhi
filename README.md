@@ -2,15 +2,15 @@
 
 <h1 align="center">
 	<a href="">
-		<img src="https://i.gifer.com/79dn.gif" width="30" />
+		<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/651d36fa-c90e-48e0-881d-bec7e84022dd/d3kvo5q-72512855-925a-45d2-b54e-53fafa52c085.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzY1MWQzNmZhLWM5MGUtNDhlMC04ODFkLWJlYzdlODQwMjJkZFwvZDNrdm81cS03MjUxMjg1NS05MjVhLTQ1ZDItYjU0ZS01M2ZhZmE1MmMwODUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.-367UGaFOBjcEHD0CDvCWZOICSI-xzssZexpuVipwzM" width="45" />
 	</a>
      Hi, I'm RiYansh GaNDHi !
 	<a href="">
-		<img src="https://i.gifer.com/79dn.gif" width="30" />
+		<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/651d36fa-c90e-48e0-881d-bec7e84022dd/d3kvo5q-72512855-925a-45d2-b54e-53fafa52c085.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzY1MWQzNmZhLWM5MGUtNDhlMC04ODFkLWJlYzdlODQwMjJkZFwvZDNrdm81cS03MjUxMjg1NS05MjVhLTQ1ZDItYjU0ZS01M2ZhZmE1MmMwODUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.-367UGaFOBjcEHD0CDvCWZOICSI-xzssZexpuVipwzM" width="45" />
 	</a>
 </h1>
 
-<img src="https://c4.wallpaperflare.com/wallpaper/93/89/108/anime-japanese-art-uzumaki-naruto-naruto-shippuuden-wallpaper-preview.jpg" width="100%" height="80%" />
+<img src="https://wallpapers.com/images/high/naruto-live-sasuke-chakra-bum1g0dwgkvbjff4.webp" width="100%" height="400%" />
 
 <div align=center style="display:flex; justify-content: space-around">
 <!--   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img alt="Instagram" src="https://img.shields.io/static/v1?style=for-the-badge&message=My Website&color=55B500&logo=airplayvideo&logoColor=FFFFFF&label=" /></a> -->
@@ -31,7 +31,7 @@ About Me
 
 </h2>
 <div >
-<img align="right" src="https://i.gifer.com/c25.gif" width="400"/>
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDVqeHhxdGdyNHZ2YzVjamNuMndqd3Z0ZmRvcTd3YTkyYmM0M2Z2dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SdBG6AkBwIFOLwPPsS/giphy.gif" width="250"/>
 
 <p>
     🌟 "Navigating the tech cosmos with a coder's compass, I merge the logic of machine learning with the artistry of music and the thrill of gaming. Join me on this journey!" 🚀
@@ -59,8 +59,17 @@ Tech Stack
 </h2>
 
 <div>
-<img align="left" src="https://i.gifer.com/2uzf.gif" width="300" />
-
+<img align="left" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazZiOWFwZnVlMHV2aTd1bm10dmVpZmxneXV2a3F2M2FxeG5pNDJxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/I6wUi5eTdUCWI/giphy.gif" width="400" />
+<details align="center">
+  <summary>Languages 🌐</summary>
+  <br>
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,java,py,html,css,js,r&perline=5" width=210/>
+  </a>
+</p>
+</details>
+	
 <details align="center">
   <summary>My Tools and Software 🛠️ </summary>
   <br>
@@ -92,15 +101,7 @@ Tech Stack
 </p>
 </details>
 
-<details align="center">
-  <summary>Languages 🌐</summary>
-  <br>
-  <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,java,py,html,css,js,r&perline=5" width=210/>
-  </a>
-</p>
-</details>
+
 
 <details align="center">
 <summary>My Top Languages 🏆</summary>
@@ -141,18 +142,18 @@ Tech Stack
   </p>
 
 <p align="center">
-  <img src="https://i.gifer.com/79cu.gif" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTJqdDlydnM3OW81ZTNtazB2cWd1NnhlaWpzaHo1b253dnA3eXd4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/F8L3qvKkiH2fe/giphy.gif" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h2>
 <a href="">
-		<img src="https://www.icegif.com/wp-content/uploads/2022/09/icegif-1623.gif" width="100" />
+		<img src="https://media.tenor.com/n1ipuL3lD2gAAAAi/cardano-rock-nft-rock.gif" width="40" />
 	</a>
 	Favorite Games & ANiME
 	<a href="">
-		<img src="https://www.icegif.com/wp-content/uploads/2022/09/icegif-1623.gif" width="100" />
+		<img src="https://media.tenor.com/n1ipuL3lD2gAAAAi/cardano-rock-nft-rock.gif" width="40" />
 	</a>
 
 </h2>
@@ -162,16 +163,15 @@ Tech Stack
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
- GAMES SECTiON:
+==
         <ul>
             <li>GTA ONLINE</li>
             <li>PUBG PC</li>
             <li>VALORANT</li>
-            <li>KRUNKER</li>
             <li>ASPHALT 9</li>
-        </ul>
- ANiME SECTiON:
-        <ul>
+	</ul>
+==		
+	<ul>
             <li>NARUTO</li>
             <li>DEATHNOTE</li>
             <li>HUNTER X HUNTER</li>
@@ -181,11 +181,11 @@ Tech Stack
 </td>
 
 <td width="50%" align="center">
- <img  align="center"  src="https://i.gifer.com/E3ka.gif"/>
+ <img  align="center"  src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTl6MmNxZWwzM2U2NHcxbndlbzgxNGR3dm9ndnB3ampvZ29mdm43biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CyCj2Kj1avdao/giphy.gif" width="100%" height="125%"/>
   </td>
 </tr>
 
 
 </table>
 
-</html>
+
