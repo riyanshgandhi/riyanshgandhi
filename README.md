@@ -2,15 +2,15 @@
 
 <h1 align="center">
 	<a href="">
-		<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/651d36fa-c90e-48e0-881d-bec7e84022dd/d3kvo5q-72512855-925a-45d2-b54e-53fafa52c085.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzY1MWQzNmZhLWM5MGUtNDhlMC04ODFkLWJlYzdlODQwMjJkZFwvZDNrdm81cS03MjUxMjg1NS05MjVhLTQ1ZDItYjU0ZS01M2ZhZmE1MmMwODUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.-367UGaFOBjcEHD0CDvCWZOICSI-xzssZexpuVipwzM" width="45" />
+		<img src="https://freepngimg.com/thumb/naruto/34931-7-boruto-photo.png" width="45" />
 	</a>
      Hi, I'm RiYansh GaNDHi !
 	<a href="">
-		<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/651d36fa-c90e-48e0-881d-bec7e84022dd/d3kvo5q-72512855-925a-45d2-b54e-53fafa52c085.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzY1MWQzNmZhLWM5MGUtNDhlMC04ODFkLWJlYzdlODQwMjJkZFwvZDNrdm81cS03MjUxMjg1NS05MjVhLTQ1ZDItYjU0ZS01M2ZhZmE1MmMwODUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.-367UGaFOBjcEHD0CDvCWZOICSI-xzssZexpuVipwzM" width="45" />
+		<img src="https://freepngimg.com/thumb/naruto/34931-7-boruto-photo.png" width="45" />
 	</a>
 </h1>
 
-<img src="https://wallpapers.com/images/high/naruto-live-sasuke-chakra-bum1g0dwgkvbjff4.webp" width="100%" height="300" />
+<img src="https://motionbgs.com/media/1948/naruto-and-sasuke-legends.jpg" width="100%" height="350" />
 
 <div align=center style="display:flex; justify-content: space-around">
 <!--   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img alt="Instagram" src="https://img.shields.io/static/v1?style=for-the-badge&message=My Website&color=55B500&logo=airplayvideo&logoColor=FFFFFF&label=" /></a> -->
@@ -149,11 +149,11 @@ Tech Stack
 
 <h2>
 <a href="">
-		<img src="https://media.tenor.com/n1ipuL3lD2gAAAAi/cardano-rock-nft-rock.gif" width="40" />
+		<img src="https://freepngimg.com/thumb/naruto/119440-logo-akatsuki-photos-free-download-png-hd.png" width="40" />
 	</a>
 	Favorite Games & ANiME
 	<a href="">
-		<img src="https://media.tenor.com/n1ipuL3lD2gAAAAi/cardano-rock-nft-rock.gif" width="40" />
+		<img src="https://freepngimg.com/thumb/naruto/119440-logo-akatsuki-photos-free-download-png-hd.png" width="40" />
 	</a>
 
 </h2>
