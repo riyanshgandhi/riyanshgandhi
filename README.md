@@ -10,7 +10,7 @@
 	</a>
 </h1>
 
-<img src="https://wallpapers.com/images/high/naruto-live-sasuke-chakra-bum1g0dwgkvbjff4.webp" width="100%" height="400%" />
+<img src="https://wallpapers.com/images/high/naruto-live-sasuke-chakra-bum1g0dwgkvbjff4.webp" width="100%" height="450" />
 
 <div align=center style="display:flex; justify-content: space-around">
 <!--   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img alt="Instagram" src="https://img.shields.io/static/v1?style=for-the-badge&message=My Website&color=55B500&logo=airplayvideo&logoColor=FFFFFF&label=" /></a> -->
