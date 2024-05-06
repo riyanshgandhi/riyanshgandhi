@@ -169,6 +169,7 @@ Tech Stack
             <li>Portfolio Website</li>
             <li>Discord Bot</li>
             <li>Twitter(x) Bot</li>
+	    <li>Gemini Ai Clone</li>
 	</ul>
 
 </td>
