@@ -151,7 +151,7 @@ Tech Stack
 <a href="">
 		<img src="https://freepngimg.com/thumb/naruto/119440-logo-akatsuki-photos-free-download-png-hd.png" width="40" />
 	</a>
-	Favorite Games & ANiME
+	Future Projects
 	<a href="">
 		<img src="https://freepngimg.com/thumb/naruto/119440-logo-akatsuki-photos-free-download-png-hd.png" width="40" />
 	</a>
@@ -165,19 +165,12 @@ Tech Stack
 <td width="50%" align="center">
 ==
         <ul>
-            <li>GTA ONLINE</li>
-            <li>PUBG PC</li>
-            <li>VALORANT</li>
-            <li>ASPHALT 9</li>
+            <li>Chat Application</li>
+            <li>Portfolio Website</li>
+            <li>Discord Bot</li>
+            <li>Twitter(x) Bot</li>
 	</ul>
-==		
-	<ul>
-            <li>NARUTO</li>
-            <li>DEATHNOTE</li>
-            <li>HUNTER X HUNTER</li>
-            <li>YOUR NAME</li>
-        </ul>
-         
+
 </td>
 
 <td width="50%" align="center">
