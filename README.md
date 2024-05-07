@@ -142,7 +142,7 @@ Tech Stack
   </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTJqdDlydnM3OW81ZTNtazB2cWd1NnhlaWpzaHo1b253dnA3eXd4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/F8L3qvKkiH2fe/giphy.gif" />
+<!--   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTJqdDlydnM3OW81ZTNtazB2cWd1NnhlaWpzaHo1b253dnA3eXd4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/F8L3qvKkiH2fe/giphy.gif" /> -->
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
