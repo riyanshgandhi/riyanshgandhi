@@ -2,11 +2,11 @@
 
 <h1 align="center">
 	<a href="">
-		<img src="https://freepngimg.com/thumb/naruto/34931-7-boruto-photo.png" width="45" />
+		<img src="https://freepngimg.com/thumb/anime/112654-yeager-pic-eren-free-transparent-image-hq.png" width="45" />
 	</a>
-     Hi, I'm RiYansh GaNDHi !
+     Hey, I'm Riyansh Gandhi !
 	<a href="">
-		<img src="https://freepngimg.com/thumb/naruto/34931-7-boruto-photo.png" width="45" />
+		<img src="https://freepngimg.com/thumb/anime/112654-yeager-pic-eren-free-transparent-image-hq.png" width="45" />
 	</a>
 </h1>
 
@@ -31,7 +31,7 @@ About Me
 
 </h2>
 <div >
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDVqeHhxdGdyNHZ2YzVjamNuMndqd3Z0ZmRvcTd3YTkyYmM0M2Z2dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SdBG6AkBwIFOLwPPsS/giphy.gif" width="250"/>
+<img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3dhZzNxY2Qyd2tuemNqMjN5dHhua3hkdzFweDYzd2lhdXF3eHRkdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0IyjV638E50Z2LlK/giphy.gif" width="250"/>
 
 <p>
     🌟 "Navigating the tech cosmos with a coder's compass, I merge the logic of machine learning with the artistry of music and the thrill of gaming. Join me on this journey!" 🚀
@@ -142,7 +142,7 @@ Tech Stack
   </p>
 
 <p align="center">
-<!--   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTJqdDlydnM3OW81ZTNtazB2cWd1NnhlaWpzaHo1b253dnA3eXd4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/F8L3qvKkiH2fe/giphy.gif" /> -->
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXZya3l2b2UwbzE5MjJmbWV2OTN0Z3k4dDlwanp0bGdscXRwYm40bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qDO6QPt4VczVS/giphy.gif"  />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -163,19 +163,19 @@ Tech Stack
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
-==
+for next 3 months...
         <ul>
-            <li>Chat Application</li>
-            <li>Portfolio Website</li>
-            <li>Discord Bot</li>
-            <li>Twitter(X) Bot</li>
-	    <li>Gemini-Ai Clone</li>
+            <li>DudeForExam</li>
+            <li>MJKW</li>
+            <li>VS CODE extension</li>
+<!--             <li></li>
+	    <li>Gemini-Ai Clone</li> -->
 	</ul>
 
 </td>
 
 <td width="50%" align="center">
- <img  align="center"  src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTl6MmNxZWwzM2U2NHcxbndlbzgxNGR3dm9ndnB3ampvZ29mdm43biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CyCj2Kj1avdao/giphy.gif" width="100%" height="125%"/>
+ <img  align="center"  src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWNzMnlpdnBtZmJ3bWUwbmF1NXdkZGJnam5xbzVuNzI3dTl1dnJhdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oEjI1erPMTMBFmNHi/giphy.gif" width="100%" height="125%"/>
   </td>
 </tr>
 
