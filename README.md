@@ -182,4 +182,4 @@ for next 3 months...
 
 </table>
 
-
+<p align="centre"> <img src="https://komarev.com/ghpvc/?username=your-github-riyanshgandhi&label=Profile%20views&color=blueviolet&style=for-the-badge" /> </p>
