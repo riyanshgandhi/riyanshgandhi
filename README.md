@@ -13,7 +13,7 @@
 <img src="https://motionbgs.com/media/1948/naruto-and-sasuke-legends.jpg" width="100%" height="350" />
 
 <div align=center style="display:flex; justify-content: space-around">
-<!--   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img alt="Instagram" src="https://img.shields.io/static/v1?style=for-the-badge&message=My Website&color=55B500&logo=airplayvideo&logoColor=FFFFFF&label=" /></a> -->
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img alt="Youtube" src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
   <a href="https://www.instagram.com/riyanshgandhi_"><img alt="MAIL" src="https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&color=C837AC&logo=Instagram&logoColor=FFFFFF&label=" /></a>
   <a href="https://twitter.com/riyanshgandhii"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=000000&logo=x&logoColor=FFFFFF&label=" alt="Twitter" /></a>
   <a href="https://www.linkedin.com/in/riyo"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a>
